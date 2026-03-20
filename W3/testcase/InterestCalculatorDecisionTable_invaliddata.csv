@@ -1,0 +1,2 @@
+id,term,principal,expectedOutput
+1,MONTH_3,100000,InvalidPrincipalException
