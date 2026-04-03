@@ -1,0 +1,3 @@
+id,term,principal,expectedException
+1,MONTH_3,499999,InvalidPrincipalException
+6,,1000000,IllegalArgumentException
